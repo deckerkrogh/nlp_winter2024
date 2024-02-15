@@ -1,0 +1,6 @@
+torch~=2.2.0
+numpy~=1.26.4
+pandas~=2.2.0
+gensim~=4.3.2
+scikit-learn~=1.4.0
+seqeval~=1.2.2

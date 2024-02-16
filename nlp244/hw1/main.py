@@ -170,9 +170,7 @@ def test_model(model, df, device, text_sequencer, bio_sequencer, rel_sequencer, 
     thresh = 0.4
 
     utterances = df.utterances.tolist()
-    print(utterances[-2])
     utts_encoded = [text_sequencer.encode(utt) for utt in utterances]
-    print(utts_encoded[-2])
 
     predicted_bio_labels = []
     predicted_rel_labels = []
@@ -201,7 +199,7 @@ def test_model(model, df, device, text_sequencer, bio_sequencer, rel_sequencer, 
     predicted_bio_labels = [[bio_sequencer.idx2word[_y] for _y in _x] for _x in predicted_bio_labels]
 
     # Convert from one hot to relation labels
-    predicted_rel_labels = [[idx_to_relation[i] if x==1 else None] for i, x in enumerate(predicted_rel_labels)]
+    predicted_rel_labels = [[idx_to_relation[i] for i, v in enumerate(x) if v == 1] for x in predicted_rel_labels]
 
     # Output to csv
     with open(output_path, 'w', newline='') as file:
@@ -318,7 +316,7 @@ def main():
         loss_fn_bio = nn.CrossEntropyLoss(ignore_index=bio_sequencer.pad_index)
         loss_fn_rel = nn.BCEWithLogitsLoss()
 
-        epochs = 2  # TODO
+        epochs = 100
         weight_reset(model)
         train_loss_l, val_loss_l, bio_f1_l, rel_f1_l = train_model(model, opt,
                                                                    loss_fn_bio, loss_fn_rel,

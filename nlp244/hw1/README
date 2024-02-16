@@ -1,0 +1,3 @@
+Before main.py can be run you must load the pretrained embeddings with load_embeddings.sh script.
+
+I'm not sure if the test data uses underscores or hyphens for the relation labels. I went with underscores because that's what the training data uses.

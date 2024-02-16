@@ -1,0 +1,982 @@
+utterances,IOB Slot tags,Core Relations
+star of thor,B_person B_person B_person,movie.starring.actor none
+who is in the movie the campaign,B_person B_person B_person B_person B_person B_person B_producer,movie.starring.actor
+list the cast of the movie the campaign,B_person B_person B_person B_person B_person B_person B_person B_producer,
+who was in twilight,B_person B_person B_person B_movie,movie.estimated_budget movie.starring.actor
+who is in vulguria,B_person B_person B_person B_person,movie.starring.actor
+actor from lost,B_person B_person B_person,movie.starring.actor
+who played in the movie rocky,B_person B_person B_person B_person B_person B_movie,movie.starring.actor
+who played in the movie captain america,B_person B_person B_person B_person B_person B_movie B_person,movie.starring.actor
+cast and crew for in july,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+who is in movie in july,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+who's in star wars episode four,B_person B_person B_movie B_producer B_producer B_producer,none
+who was in apollo thirteen,B_person B_person B_person B_person B_producer,movie.initial_release_date movie.starring.actor
+who was apollo thirteen 's cast,B_person B_person B_person B_producer B_person B_person,movie.initial_release_date movie.starring.actor
+search for information about the cast and crew of appolo thirteen,B_person B_person B_person B_movie B_person B_person B_person B_person B_person B_movie B_producer,movie.initial_release_date movie.starring.actor
+i would like to know more about the cast and crew of the movie apollo thirteen,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer,movie.initial_release_date movie.starring.actor
+who starred in the avengers,B_person B_person B_person B_movie B_producer,movie.starring.actor
+cast for finding nemo,B_person B_person B_movie B_person,movie.starring.actor
+actor from lassie,B_person B_person B_person,movie.starring.actor
+list actors in the movie midnight cowboy,B_person B_person B_person B_person B_person B_person B_movie,
+dirty dancing actors,B_movie B_producer B_person,movie.estimated_budget movie.initial_release_date movie.starring.actor
+who are cast and crew of dirty dancing,B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.starring.actor
+who was in hitch,B_person B_person B_person B_mpaa_rating,movie.starring.actor
+who is in the cast of hitch,B_person B_person B_person B_person B_person B_person B_movie,movie.starring.actor
+star of facts of life,B_person B_person B_movie B_person B_movie,movie.estimated_budget
+show me movie credits,B_person B_person B_person B_person,
+who does the voices for the movie,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+find movie actors,B_person B_person B_person,movie.rating
+show credits - forager,B_person B_person B_person B_movie,
+star of modern family,B_person B_person B_producer B_producer,movie.starring.actor
+look up information about the cast crew of go,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+find information about the cast and crew of go,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+who was in the cast of go,B_person B_person B_person B_person B_person B_person B_movie,movie.starring.actor
+can you find the lead actor in pretty women,B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.starring.actor
+what are the actors names and parts in finding nemo,B_person B_person B_person B_person B_person B_person B_producer B_person B_movie B_person,movie.starring.actor
+searching for names of crew members of appollo thirteen,B_movie B_person B_person B_person B_person B_person B_person B_person B_producer,movie.estimated_budget movie.initial_release_date movie.starring.actor
+budget for dark knight,B_person B_person B_movie B_producer,movie.estimated_budget movie.initial_release_date movie.rating
+what was the budget for the godfather,B_person B_person B_movie B_person B_person B_movie B_producer,
+budget for twilight,B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+please look up the budget of step up,B_person B_person B_person B_person B_person B_person B_movie B_person,movie.estimated_budget
+budget for titanic the movie,B_person B_person B_movie B_person B_person,movie.estimated_budget
+what was the budget for the movie titanic,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget
+budget for iron man 2,B_person B_person B_movie B_producer B_producer,movie.estimated_budget
+please tell me how much was the budget for avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+how much money did they spend to make avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.directed_by movie.initial_release_date
+avatar 's budget,B_movie B_person B_person,movie.estimated_budget movie.initial_release_date movie.rating
+how much did avatar take in,B_person B_person B_person B_movie B_person B_person,movie.estimated_budget movie.starring.actor
+please show me what the budget was for avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+what was the budget for the avatar movie,B_person B_person B_person B_person B_person B_person B_movie B_person,movie.estimated_budget movie.initial_release_date
+can you tell me the budget of the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+total budget for the movie avatar,B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+what was the budget for batman begins,B_person B_person B_person B_person B_person B_movie B_producer,movie.estimated_budget
+what was the budget for the avengers,B_person B_person B_movie B_person B_person B_movie B_producer,
+what was the budget for gone with the wind,B_person B_person B_person B_person B_person B_movie B_person B_person B_producer,movie.estimated_budget
+what was spent on my big fat greek wedding,B_person B_person B_person B_person B_person B_producer B_producer B_producer B_producer,movie.initial_release_date
+what was pretty woman s budget,B_person B_person B_movie B_person B_person B_person,movie.estimated_budget movie.initial_release_date
+what was the budget for spaceballs,B_person B_person B_person B_person B_person B_person,movie.estimated_budget movie.initial_release_date
+how many movies has kevin bacon been the lead actor in,B_person B_person B_person B_person B_person B_mpaa_rating B_person B_person B_person B_person B_person,movie.starring.actor
+how many star wars movies are there,B_person B_person B_person B_mpaa_rating B_person B_person B_person,movie.starring.actor
+how many movies are rated g,B_person B_person B_person B_person B_person B_person,movie.rating
+spain has how many movies,B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+how many movies has kristen stewart starred in,I_genre B_person B_person I_genre I_genre I_genre B_person B_person,movie.directed_by movie.starring.actor
+how many movies has robert wise directed,B_person B_person B_person B_person B_person B_genre B_person,movie.directed_by
+how many movies did alfred hitchcock direct,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+how many movies has paramount done,B_person B_person B_person B_person B_subject B_person,movie.production_companies
+i would like to know the name of the country from where the movie kati patang comes,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person B_person,
+what country is bullhead,B_person B_person B_person B_person,
+what country made black swan,B_person B_person B_person B_movie B_producer,movie.rating
+what country was black swan from,B_person B_person B_person B_movie B_producer B_person,
+what country was the movie made,B_person B_person B_person B_person B_person B_person,movie.country
+what country did deep blue sea come from,B_person B_person B_person B_person B_person B_producer B_person B_person,
+origin of titanic,B_person B_person B_movie,movie.estimated_budget movie.starring.actor
+origin of king lear,B_person B_person B_producer B_person,movie.directed_by movie.starring.actor
+when will top gun be released,B_person B_person B_movie B_producer B_person B_person,movie.initial_release_date
+release year and date for casino,B_person B_person B_producer B_person B_person B_movie,movie.initial_release_date
+when did will ferrell begin acting,B_person B_person B_person B_person B_producer B_person,movie.produced_by movie.starring.actor
+show me when 24 will be released,B_person B_person B_person B_movie B_person B_person B_person,movie.initial_release_date
+can i have release date of movie,B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date
+movie's release date,B_movie B_person B_person,movie.initial_release_date
+show me when the movie was made,B_person B_person B_person B_person B_person B_person B_person,
+when the movie titanic was released,B_person B_person B_person B_movie B_person B_person,movie.initial_release_date
+what year did the italian movie roman holiday come out,B_person B_person B_person B_person B_movie B_person B_person B_person B_person B_person,
+can you please search for release date for karate kid,B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.initial_release_date
+karate kid release date please,B_movie B_producer B_person B_person B_person,movie.initial_release_date
+when was dirty dancing released,B_person B_person B_movie B_producer B_person,movie.initial_release_date
+when was spaceballs released,B_person B_person B_person B_person,movie.initial_release_date movie.rating
+when was batman released,B_person B_person B_movie B_person,movie.estimated_budget movie.initial_release_date
+when was pretty woman released,B_person B_person B_movie B_person B_person,movie.initial_release_date
+when was men in black released,B_person B_person B_movie B_person B_movie B_person,movie.initial_release_date
+when did kristen stewart start acting,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+when is possessed going to be released,B_person B_person B_movie B_person B_person B_person B_person,movie.initial_release_date
+when was resident evil released,B_person B_person B_movie B_producer B_person,movie.initial_release_date movie.rating
+release date for finding nemo,B_person B_person B_person B_movie B_person,movie.initial_release_date
+when was finding nemo released,B_person B_person B_movie B_person B_person,movie.initial_release_date
+release date of hum tum,B_person B_person B_person B_movie B_producer,movie.estimated_budget movie.initial_release_date movie.rating
+when was freedom writers released,B_person B_person B_movie B_producer B_person,movie.initial_release_date
+when was avatar released,B_person B_person B_movie B_person,movie.estimated_budget movie.initial_release_date movie.rating
+when did avatar released,B_person B_person B_movie B_person,movie.estimated_budget movie.initial_release_date movie.rating
+i would like to know the release date of the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.initial_release_date
+can you tell me when was the movie avatar released,B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person,movie.estimated_budget movie.initial_release_date
+when was date night released,B_person B_person B_person B_producer B_person,movie.initial_release_date
+when did black swan come out,B_person B_person B_movie B_producer B_person B_person,movie.estimated_budget movie.initial_release_date
+when did avergers come out,B_person B_person B_person B_person B_person,movie.estimated_budget movie.initial_release_date movie.starring.actor
+what date did the amazing spiderman show for the 1st time,B_person B_person B_person B_person B_producer B_person B_person B_person B_person B_person B_movie,movie.initial_release_date
+what is the release date of vulgaria,B_person B_person B_movie B_person B_person B_person B_person,movie.initial_release_date
+when the movie the godfather was released,B_person B_person B_person B_person B_producer B_person B_person,movie.initial_release_date
+when does looper come out,B_person B_person B_movie B_person B_person,movie.estimated_budget movie.initial_release_date movie.starring.actor
+can you tell me the release date of the movie barfi,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date
+what date did the movie heroine come out,B_person B_person B_person B_person B_person B_movie B_person B_person,movie.estimated_budget movie.initial_release_date
+when did the house at the end of the street hit theaters,B_person B_person B_producer B_movie B_person B_producer B_producer B_producer B_producer B_producer B_producer B_person,none
+what day is fun size coming out,B_person B_producer B_person B_producer B_person B_movie B_person,movie.rating
+what day will django unchained come out,B_person B_person B_person B_person B_person B_person B_person,movie.estimated_budget movie.initial_release_date
+when will i be able to view iron man 3,B_person B_person B_person B_person B_producer B_person B_person B_movie B_producer B_producer,movie.estimated_budget
+on what date will iron man 3 be released,B_person B_person B_person B_person B_movie B_producer B_producer B_person B_person,movie.estimated_budget movie.initial_release_date
+who directed gone with the wind,B_person B_person B_movie B_person B_producer B_producer,movie.directed_by
+who was the director for black swan,B_person B_person B_person B_person B_person B_movie B_producer,
+tell me the directed of black swan,B_person B_person B_person B_person B_person B_movie B_producer,movie.estimated_budget
+who is the director of sleepless in seattle,B_person B_person B_person B_person B_person B_movie B_person B_person,
+find who the director was in men in black 3,B_person B_person B_person B_person B_person B_person B_movie B_person B_producer B_producer,movie.directed_by
+locate the director who created the movie men in black 3,B_person B_person B_person B_person B_person B_person B_person B_movie B_person B_producer B_producer,
+director of titanic,B_person B_person B_movie,movie.directed_by movie.estimated_budget movie.initial_release_date
+titanic director,B_movie B_person,movie.directed_by movie.estimated_budget movie.initial_release_date movie.rating
+avengers movie director,B_movie B_person B_person,movie.directed_by movie.rating
+dirctor of movie avengers,B_person B_person B_person B_person,
+who was the director for nacho libre,B_person B_person B_movie B_person B_person B_person B_producer,movie.directed_by
+director for big,B_person B_person B_movie,movie.directed_by movie.initial_release_date
+who was the director of welcome to the dollhouse,B_person B_person B_person B_person B_person B_movie B_person B_person B_person,
+who directed the movie house at the end of the at the street,B_person B_person B_producer B_person B_movie B_person B_producer B_producer B_producer B_producer B_person B_producer B_producer,movie.directed_by none
+who was the director of the movie toy story,B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,
+list director gilda,B_person B_person B_person,movie.directed_by
+who directed field of dreams,B_person B_person B_movie B_producer B_producer,movie.directed_by
+who is the second director on finding nemo,B_person B_person B_person B_producer B_person B_person B_movie B_person,movie.directed_by
+find director of finding nemo,B_person B_person B_person B_movie B_person,movie.directed_by
+who directed finding nemo,B_person B_person B_movie B_person,movie.directed_by movie.starring.actor
+finding nemo directed by who,B_movie B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+director of finding nemo,B_person B_person B_movie B_person,movie.directed_by
+who directed hitch,B_person B_person B_movie,movie.directed_by movie.starring.actor
+i want to know who is the director of the movie batman,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+who is director of the words,B_person B_person B_person B_person B_person B_movie,
+who directed million dollar baby,B_person B_person B_movie B_person B_person,movie.directed_by movie.initial_release_date
+who was the guy that directed moneyball,B_person B_person B_movie B_person B_person B_person B_person,movie.directed_by
+who did twilight,B_person B_person B_movie,movie.estimated_budget movie.initial_release_date movie.starring.actor
+twilight director,B_movie B_person,movie.directed_by movie.estimated_budget movie.initial_release_date
+who directed twilight,B_person B_person B_movie,movie.estimated_budget
+who directed twilight,B_person B_person B_movie,movie.estimated_budget
+who is the director of hum tum,B_person B_person B_person B_person B_person B_movie B_producer,
+look for the director of step up,B_person B_person B_person B_person B_person B_movie B_person,movie.directed_by
+please find the director of freedom writers,B_person B_person B_person B_person B_person B_movie B_producer,movie.directed_by
+find the director of freedom writers,B_person B_person B_person B_person B_movie B_producer,movie.directed_by
+look up the director of freedom writers,B_person B_person B_person B_person B_person B_movie B_producer,movie.directed_by
+find the director of freedom writers,B_person B_person B_person B_person B_movie B_producer,movie.directed_by
+who directed baby mama,B_person B_person B_producer B_movie,none
+godfather director,B_producer B_person,movie.directed_by
+show me who directed the sound of music,B_person B_person B_person B_person B_movie B_producer B_producer B_producer,movie.directed_by movie.starring.actor
+who directed the sound of music,B_person B_person B_movie B_producer B_producer B_producer,movie.directed_by movie.starring.actor
+who directed the sound of music,B_person B_person B_movie B_producer B_producer B_producer,movie.directed_by movie.starring.actor
+find the name of the director of return,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.directed_by movie.initial_release_date
+show movie avengers director name,B_person B_person B_movie B_person B_person,movie.rating
+name the director in sleepless in seattle,B_person B_person B_person B_person B_movie B_person B_person,
+what 's the genre for black swan,B_person B_person B_person B_person B_person B_movie B_producer,movie.estimated_budget
+what is black swan 's genre,B_person B_person B_movie B_producer B_person B_person,movie.estimated_budget
+what genre is parenthood,B_person B_person B_person B_movie,movie.rating
+what kind of movie is parenthood,B_person B_person B_person B_person B_person B_person,
+genre for pride and prejudice,B_person B_person B_movie B_person B_producer,movie.estimated_budget movie.initial_release_date
+can you tell me the genre of the movie lawless,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+show me what genre does movie lawless belongs to,B_person B_person B_person B_person B_person B_person B_movie B_person B_person,
+genre for snow white and the huntsman,B_person B_person B_movie B_person B_person B_person B_producer,
+what is the movie type,B_person B_person B_person B_person B_person,
+what's the genre of rushmore,B_person B_movie B_person B_person B_person,
+get the genre of welcome to the dollhouse,B_person B_person B_person B_person B_movie B_person B_person B_person,
+i want to find the genre freedom writers is in,B_person B_person B_person B_person B_person B_person B_movie B_producer B_person B_person,
+what genre is freedom writers in,B_person B_person B_person B_movie B_producer B_person,
+genre for batman,B_person B_person B_movie,movie.estimated_budget
+give me the genre of the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget
+i would like to know the genre of the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget
+genre for bad teacher,B_person B_person B_person B_producer,movie.estimated_budget movie.rating
+can you tell me pretty girl the movie 's genre,B_person B_person B_person B_person B_movie B_producer B_person B_person B_person B_person,
+what genre is the movie pitch perfect,B_person B_person B_person B_person B_person B_movie B_producer,
+in what language is this movie,B_person B_person B_person B_person B_person B_person,movie.language
+what language is this movie,B_person B_person B_person B_person B_person,movie.language
+what language is the movie hero in,B_person B_person B_person B_person B_person B_movie B_person,movie.language
+language of king lear,B_person B_person B_producer B_person,movie.language
+language of casa blanca,B_person B_person B_movie B_producer,movie.language
+what language is head on in,B_person B_person B_person B_movie B_producer B_person,movie.language
+language of spanglish,B_person B_person B_person,movie.language
+find out what language the father of my children is in,B_person B_person B_person B_person B_person B_producer B_person B_person B_producer B_person B_person,movie.language
+i am intersted in viewing belle what foreign language is the movie available in,B_person B_person B_person B_person B_movie B_movie B_person B_person B_person B_person B_person B_person B_person B_person,movie.language
+i need to find out about names of some japanese movies,B_person B_person B_person B_person B_person B_person B_person B_person B_person I_movie B_person,movie.country movie.language
+can you tell me names of some japanese movies,B_person B_person B_person B_person B_person B_person B_person I_movie B_person,movie.country movie.language
+ron howard name some of the movies he produce,I_producer B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+tell me the names of the movies produced by william packer,B_person B_subject B_person B_person B_person B_person B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+about life is beautiful,B_person B_movie B_producer B_producer,none
+show me info on life is beautiful,B_person B_person B_person B_person B_movie B_producer B_producer,none
+find old movies,B_person I_mpaa_rating B_person,movie.genre movie.rating movie.subjects
+find movie ratings,B_person B_person B_person,movie.initial_release_date movie.rating
+find newly released movies in spanish,B_person B_person B_person B_person B_person B_language,movie.language
+was bill paxton in the movie apollo thirteen,B_person B_movie B_person B_person B_person B_person B_person B_producer,movie.starring.actor
+was kevin bacon in the movie apollo thirteen,B_person B_person B_producer B_person B_person B_person B_person B_producer,movie.starring.actor
+find movies about dancing,B_person B_person B_person B_director,movie.subjects
+search for movies about dancing,B_person B_person B_person B_person B_director,movie.subjects
+show will ferrell films,B_person B_person B_person B_person,movie.starring.actor
+will ferrell movies,B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies has will ferrell appeared in,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+find russian movies,B_person I_movie B_person,movie.country movie.language
+show me the movie pretty women so i can see who starred in the movie,B_person B_person B_person B_person B_movie B_producer B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+feral,B_person,movie.estimated_budget movie.gross_revenue movie.initial_release_date movie.language movie.rating
+the movie is called big,B_person B_person B_person B_person B_producer,
+will smith acting carrer,B_person B_mpaa_rating B_person B_person,movie.starring.actor
+how many movies did peter jackson do,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+movies and gross payment,B_person B_person B_person I_genre,movie.rating movie.starring.actor
+search for tim burton movies in french,B_person B_person B_person B_person B_person B_person B_language,movie.language
+exhibit all details of original finding nemo movie,B_person B_person B_person B_person B_person B_movie B_person B_person,none
+finding nemo movie,B_movie B_person B_person,movie.starring.actor
+find the movie finding nemo,B_person B_person B_person B_movie B_person,none
+i am looking for information on the movie finding nemo,B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person,none
+show me details for the movie finding nemo,B_person B_person B_person B_person B_person B_person B_movie B_person,none
+what did andrew stanton direct,B_person B_person B_person B_person B_person,movie.directed_by
+show me some other movies directed by andrew stanton,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+display albert brooks movie,B_person B_person O B_person,movie.starring.actor
+show a movie with albert brooks in the cast,B_person B_person B_person B_person B_person B_producer B_person B_person B_person,movie.starring.actor
+what other films has sergio leone directed,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies has george harrison produced,B_person B_person B_person B_person B_person B_person,movie.produced_by
+what has charlie sheen starred in,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+please find the movies in which clive owen has appeared,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+in which movies has clive owen appear,B_person B_person B_person B_person B_person B_person B_person,movie.language movie.starring.actor
+spike lee directed what movie,B_person O B_person B_person B_person,
+search for movies directed by spike lee,B_person B_person B_person B_person B_person B_subject B_genre,movie.directed_by
+movie release dates,B_person B_person B_movie,movie.initial_release_date
+director information for movies,B_person B_person B_person B_person,movie.directed_by
+movies by director,B_person B_person B_person,movie.directed_by movie.initial_release_date
+please list all movies not rated pg,B_person B_person B_person B_person B_person B_person I_subject,movie.rating
+find movies,B_person B_person,movie.rating
+i want a list of english speaking movies,B_person B_person B_person B_person B_person B_language B_person B_person,movie.language
+a list of movies made in america,B_person B_person B_person B_person B_person B_person I_movie,movie.country
+are there any movies produced in the united states,B_person B_person B_person B_person B_person B_person B_person I_movie B_release_year,movie.country movie.language
+show english movies,B_person B_language B_person,movie.country movie.language
+search english movies,B_person B_language B_person,movie.language
+comedy,B_person,movie.estimated_budget movie.genre movie.gross_revenue movie.language movie.subjects
+find a comedy,B_person B_person I_mpaa_rating,movie.genre movie.subjects
+watch comedy movies,B_person I_mpaa_rating B_person,movie.genre movie.subjects
+get horror films,B_person I_mpaa_rating B_person,movie.genre movie.rating movie.subjects
+show me horror movies,B_person B_person I_mpaa_rating B_person,
+i want to see a listing of horror movies,B_person B_person B_person B_person B_person B_person B_person I_mpaa_rating B_person,movie.genre movie.rating
+show actor bruce willis movies,B_person B_person B_person B_person B_person,movie.starring.actor
+which movies did bruce willis star in,I_genre B_person I_genre I_genre I_genre B_person B_person,movie.directed_by movie.starring.actor
+list movies with bruce willis,B_person B_person B_person B_person B_person,movie.starring.actor
+show me movies made in canada,B_person I_movie B_person B_person B_person I_movie,movie.country movie.language
+can i watch a canadian film,B_person B_person B_person B_person B_person B_person,movie.directed_by
+see canadian movies,B_person B_person B_person,movie.starring.actor
+search for information about canadian movies,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+I'd like to see some italian films,B_person B_person B_person B_person B_person I_movie B_person,movie.country movie.language
+show me something italian - made,B_person B_person B_person B_language B_person B_person,
+i want to see a movie from spain,B_person B_person B_person B_person B_person B_person B_person B_person,
+find movies from spain,B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+spain country movies,B_person B_person B_person,movie.country
+display a list of spanish films,B_person B_person B_person B_person B_language B_person,movie.country movie.language
+spanish movie listing,B_language B_person B_person,movie.country movie.language
+spanish movies,B_language B_person,movie.country movie.language
+find actors in movies,B_person B_person B_person B_person,movie.rating movie.starring.actor
+search by actors,B_person B_person B_person,
+find some romantic movies,B_person B_person I_mpaa_rating B_person,movie.genre movie.subjects
+i want to see a movie in french,B_person B_person B_person B_person B_person B_person B_person B_language,movie.country movie.language
+gwyneth paltrow movies,B_person B_person B_person,movie.directed_by movie.starring.actor
+find movies with quentin tarantino as director,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+england movies,B_person B_person,movie.directed_by movie.starring.actor
+england movies please,B_person B_person B_person,movie.directed_by movie.starring.actor
+find david tennant movies,B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+show me what richard lester directed,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date movie.starring.actor
+get films in hindi,B_person B_person B_person B_language,movie.language
+show me movies from india,B_person B_person B_person B_person I_movie,movie.country
+what is a british horror movie,B_person B_person B_person B_language I_mpaa_rating B_person,
+i want to watch an r rated comedy,B_person B_person B_person B_person B_person B_person B_person I_mpaa_rating,movie.genre movie.rating
+list of french language comedies,B_person B_person B_language B_person B_movie,movie.language
+look for dirty dancing movie with jennifer grey,B_person B_person B_movie B_producer B_person B_person B_person B_person,
+tell me in detail about the movie dirty dancing,B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.starring.actor
+tell about movie dirty dancing,B_person B_person B_person B_movie B_producer,none
+can i see a list of bette midler movies,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+list of movies starring bette midler,B_person B_person B_person B_person I_genre I_genre,movie.starring.actor
+show me all of anne hathaway 's movies,B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies has sandra bullock produced,B_person B_person B_person B_person B_country B_person,movie.produced_by movie.production_companies
+find me movies from portugal,B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies has robert redford been in,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+dirty dancing info,B_movie B_producer B_person,movie.estimated_budget none
+dirty dancing,B_movie B_producer,movie.estimated_budget movie.initial_release_date movie.starring.actor
+give a short bio for dirty dancing,B_person B_person B_person B_person B_person B_movie B_producer,none
+about dirty dancing,B_person B_movie B_producer,movie.estimated_budget movie.initial_release_date movie.starring.actor
+movies from japan,B_person B_person B_person,movie.directed_by movie.starring.actor
+show movies from japan,B_person B_person B_person B_person,movie.starring.actor
+list japanese movies,B_person I_movie B_person,movie.country movie.language
+show me japanese movies,B_person B_person I_movie B_person,movie.country movie.language
+give me a list of some japanese movies,B_person B_person B_person B_person B_person B_person I_movie B_person,movie.country movie.language
+give me a list of japanese movies,B_person B_person B_person B_person B_person I_movie B_person,movie.country movie.language
+japanese movies,I_movie B_person,movie.country movie.language
+show me japanese language movies,B_person B_person B_language I-movie B_person,movie.country movie.language
+which films are spoken in japanese,B_person B_person B_person B_person B_person B_language,movie.country movie.language
+miramax films only,B_person B_person B_person,movie.starring.actor
+show movies by miramax,B_person B_person B_person I_producer,movie.directed_by
+search sandra bullock movies,B_person B_person B_director B_person,movie.starring.actor
+watch sandra bullock movies,B_person B_person B_mpaa_rating B_person,movie.directed_by movie.starring.actor
+find movies about vampires,B_person B_person B_person B_director,movie.subjects
+find movies having vampires,B_person B_person B_person B_director,movie.subjects
+will smith movies,B_person B_mpaa_rating B_person,movie.starring.actor
+cars movie,B_person B_person,movie.starring.actor
+what movies did darla anderson produce,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what films are made by paramount,B_person B_person B_person B_person B_person B_subject,
+show me movies by paramount,B_person B_person B_person B_person B_subject,
+what movies has paramount released,B_person B_person B_person B_subject B_person,movie.initial_release_date
+show all movies from turkey,B_person B_person B_person B_person B_person,
+show me movies produced by bruce lee,B_person B_subject B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+is parenthood a drama,B_person B_movie B_person B_person,movie.rating
+i want to see an kevin james film tonight,B_person B_person B_person B_person B_person B_person B_person B_person B_person,
+find films from china,B_person B_person B_person I_movie,
+get films from china,B_person B_person B_person B_mpaa_rating,movie.rating
+i'd like to watch a movie made in china,B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.language
+list some movies from china,B_person B_person B_person B_person B_mpaa_rating,movie.starring.actor
+chinese films,I_movie B_person,movie.country movie.language
+show me other chinese movies,B_person B_person B_person I_movie B_person,movie.country movie.language
+show me chinese movies,B_person B_person I_movie B_person,movie.country movie.language
+what movies have a pg-13 rating,B_person B_person B_person B_person B_person B_person,movie.rating
+please list movies that are rated pg-13,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+i need a g rating so i can take the kids,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date movie.rating
+find a g rated movie,B_person B_person B_person B_person B_person,movie.rating
+find g movies,B_person B_person B_person,movie.starring.actor
+find g movies,B_person B_person B_person,movie.starring.actor
+i want rated g movies,B_person B_person B_person B_person B_person,movie.rating
+look up g rated movies,B_person B_person B_person B_person B_person,movie.rating
+i am searching for any g rated movies for my children to view,B_person B_person I_director B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.rating
+rated g movies for family watching,B_person B_person B_person B_person I_mpaa_rating B_person,movie.rating
+find g rated movies,B_person I_subject B_person B_person,movie.rating
+are there any movies rated g playing,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+i want to see movies rated g,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+find movies rated g,B_person B_person B_person I_subject,movie.rating
+show me movies with g rating,B_person B_person B_person B_person B_person B_person,movie.rating
+did robert wise direct any other musicals,B_person B_person B_genre B_person B_person B_person B_genre,movie.directed_by
+bruce lee produced movie listing,B_person B_country B_person B_person B_person,movie.produced_by movie.production_companies
+what was the last movie made by robert wise,B_person B_person B_person B_person B_person B_person B_person B_person B_genre,movie.directed_by
+find movies produced by mgm,B_person B_person B_person B_person B_subject,movie.produced_by
+show me british made movies,B_person B_person B_language B_person B_person,movie.rating
+movies from the uk,B_person B_person B_person I_movie,movie.country
+find me movies from the uk,B_person B_person B_person B_person B_person I_movie,movie.country
+can you list ron howard movie production,B_person B_person B_person I_producer B_person B_person B_person,movie.directed_by movie.starring.actor
+i need to know the movies produce by ron howard,B_person B_person B_person B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by movie.starring.actor
+did clint eastwood direct any other movies besides million dollar baby,B_person B_person B_person B_person B_person B_person B_person B_person B_genre B_person B_genre,movie.directed_by
+find movies directed by clint eastwood,B_person B_person B_person B_person I_producer I_producer,movie.directed_by
+what movies have been directed by clint eastwood,B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+list all movies that were directed by clint eastwood,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies has clint eastwood directed,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+show movies directed by clint eastwood,B_person B_person B_person B_person I_producer I_producer,movie.directed_by
+find all films by stanley kubrick,B_person B_person B_person B_person B_person B_person,movie.directed_by
+i want to select the option to search for movies produced by stephen spielberg,B_subject B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_subject B_subject,movie.produced_by
+i would like to search for movies produced by stephen speilberg,B_subject B_person B_person B_person B_person B_person B_person B_person B_person B_subject B_subject,movie.produced_by
+show me japanese horror movies,B_person B_person I_movie I_mpaa_rating B_person,movie.country movie.language
+i would like to see movies ron howard directed,B_person B_person B_person B_person B_person B_person I_producer B_person B_person,movie.directed_by movie.starring.actor
+movies by stephen spielberg,B_person B_person I_producer I_producer,movie.directed_by
+movies by stephen spielberg,B_person B_person I_producer I_producer,movie.directed_by
+what movies did stephen spielberg direct,B_person B_person B_person B_person B_person B_person,movie.directed_by
+list steven spielberg movies,B_person B_person B_person B_person,movie.starring.actor
+steven spielberg movie,B_person B_person B_person,movie.directed_by movie.starring.actor
+steven spielberg movies please,B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+directed by steven spielberg,B_person B_person B_person B_person,movie.directed_by movie.initial_release_date
+find the steven spielberg movies,B_person B_person B_person B_person B_person,movie.starring.actor
+find movies from steven spielberg,B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+i would like to watch a movie directed by eddie murphy,I_producer B_person B_person B_person B_person B_person B_person B_person B_person I_producer I_producer,movie.directed_by
+the camp,B_person B_producer,movie.estimated_budget movie.initial_release_date movie.starring.actor
+watch sandra bullock the blind side,B_person B_person B_person B_movie B_producer B_producer,movie.starring.actor
+i want to see movies with hugh jackman,B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+list movies with kevin spacey,B_person B_person B_person B_person B_mpaa_rating,movie.starring.actor
+look for movies from france,B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+can you show me movies that were made in france,I_movie I_movie B_person I_movie B_person I_movie I_movie B_person B_person I_movie,movie.country movie.starring.actor
+find me any movies that were made in france,B_person I_movie I_movie B_person I_movie I_movie B_person B_person I_movie,movie.country movie.language
+french movies please,B_language B_person B_person,movie.country movie.language
+french movies,I_movie B_person,movie.country movie.language
+find movies produced by,B_person B_person B_person B_person,movie.produced_by
+movies by producers,B_person B_person B_person,movie.directed_by movie.initial_release_date movie.rating
+display movies produced by,B_person B_person B_person B_person,movie.produced_by movie.production_companies
+find movies produced by mosfilm,B_person B_person B_person B_person B_subject,movie.produced_by
+what was kristen stewart 's first movie,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date movie.starring.actor
+get me movies directed by miranda july,B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by
+tom hanks movies,I_genre B_mpaa_rating B_person,movie.starring.actor
+show me movies with tom hanks,B_person B_mpaa_rating B_person B_mpaa_rating I_genre B_mpaa_rating,movie.starring.actor
+i am trying to find a list of movies with tom hanks,B_person B_person B_mpaa_rating B_person B_person B_person B_person B_person B_person B_person I_genre B_person,movie.starring.actor
+provide movies directed by oliver stone please,B_person B_person B_person B_person B_genre B_genre B_person,movie.directed_by
+i want to look for movies produced by albert ruddy,B_subject B_person B_person B_person B_person B_person B_person B_person B_subject B_country,movie.produced_by
+what are all of the movies produced by albert ruddy,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_country,movie.produced_by
+movies produced by yash chopra,B_person B_person B_person B_subject B_subject,movie.produced_by
+what did brad pitt porduce,B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date movie.starring.actor none
+bring up all brad pitt produced movies,B_person B_person B_person B_person B_person B_person B_person,movie.produced_by
+show all movies that penny marshall directed,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+i need a list of all the movies directed by james cameron,B_genre B_person B_person B_person B_person B_genre B_person B_person B_person B_person B_genre B_genre,movie.directed_by
+give me a list of all the movies directed by james cameron,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+james cameron movies produced,B_person B_person B_person B_person,movie.produced_by
+movies produced by james cameron,B_person B_person B_person B_subject B_subject,movie.produced_by
+what films have been produced by warner bros.,B_subject B_person B_subject B_subject B_person B_person B_subject B_subject,movie.produced_by
+find movies produced by warner bros.,B_person B_person B_person B_person B_subject B_subject,movie.produced_by
+what movies have been produced by warner bros.,B_country B_person B_country B_country B_person B_person B_country B_country,movie.produced_by
+show me movies by wb,B_person I_producer B_person B_person I_producer,movie.directed_by
+give me information about finding nemo,B_person B_person B_person B_person B_movie B_person,none
+i want information about finding nemo,B_person B_person B_person B_person B_movie B_person,none
+show me finding nemo,B_person B_person B_movie B_person,movie.starring.actor none
+finding nemo bing,B_movie B_person B_person,movie.initial_release_date movie.starring.actor
+search finding nemo,B_person B_movie B_person,none
+show information page for finding nemo,B_person B_person B_person B_person B_movie B_person,none
+the campaign information,B_movie B_producer B_person,none
+more information on apallo thirteen,B_person B_person B_person B_person B_producer,none
+research apollo thirteen,B_person B_person I_char,movie.initial_release_date movie.starring.actor none
+has kristen stewart starred in movies other than twilight,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+show me kristen stewart movies,B_person B_person B_person B_person B_person,movie.starring.actor
+what movies has kristen stewarted starred in,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+lionsgate movies,B_person B_person,movie.directed_by movie.starring.actor
+show lionsgate movies,B_person B_person B_person,movie.starring.actor
+show movies made by production lionsgate,B_person B_person B_person B_person B_person B_subject,movie.directed_by
+give me something by charles vidor,B_person I_producer B_person B_person I_producer I_producer,movie.directed_by movie.starring.actor
+show charles vidor movie,B_person B_person B_person B_person,movie.starring.actor
+what film did charles vidor direct,B_person B_person B_person B_person B_person B_person,movie.directed_by
+which movies have been made outside the united states,B_person B_person B_person B_person B_person B_person B_person I_movie B_director,movie.country movie.subjects
+find me nigeria movies,B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+display 7 arts movies,B_person B_subject B_country B_person,movie.produced_by movie.production_companies
+korean movie,B_person B_person,movie.starring.actor
+what other movies did roberto benigni star in,I_genre I_genre B_person I_genre I_genre I_genre B_person B_person,movie.directed_by movie.starring.actor
+i want to see movies starring denzel washington please,I_genre B_person B_person B_person B_person B_person I_genre I_genre B_person,movie.starring.actor
+list the kareena 's movie,B_person B_person B_person B_person B_person,movie.starring.actor
+i want to watch a drama made in turkey,B_person B_person B_person B_person B_person I_mpaa_rating B_person B_person B_person,movie.language
+jennifer lopez played in what movies,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+show me all of the movies directed by woody allen,B_person B_person B_person B_person B_person B_person B_person B_person I_producer B_genre,movie.directed_by
+show robert wise movies,B_person B_person B_genre B_person,movie.directed_by
+want to see robert wise movies,B_person B_person B_person B_person B_genre B_person,movie.directed_by
+what movies has robert wise directed,B_person B_person B_person B_person B_genre B_person,movie.directed_by
+what movies have robert wise directed,B_person B_person B_person B_person B_genre B_person,movie.directed_by
+where can i find a list of movies produced by chris nolan,B_subject B_subject B_subject B_person B_person B_person B_person B_person B_person B_person B_subject B_subject,movie.produced_by
+what movies has brad pitt been in,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what are the movies brad pitt had been in,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what are some movies with brad pitt,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+find an r rated movie,B_person B_person B_person B_person B_person,movie.rating
+show me r rated movies,B_person B_person B_person B_person B_person,movie.rating
+give me a list of r rated movies,B_person I_subject B_person B_person B_person I_subject B_person B_person,movie.rating
+look up r rated movies,B_person B_person B_person B_person B_person,movie.rating
+i want only r rated movies,B_person B_person B_person B_person B_person B_person,movie.rating
+i want to see a list of rated r movies,I_subject B_person B_person B_person B_person B_person B_person B_person I_subject B_person,movie.rating
+show me only movies with a rating of r,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.rating
+please look for movies with an r rating,B_person B_person B_person B_person B_person B_person B_person B_person,movie.rating
+show me movies rated r,B_person B_person B_person B_person B_person,movie.rating
+look for movies with an r rating,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+give me a list of all movies that are rated r,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.rating
+i want to watch movies from norway,B_person B_person B_person B_person B_person B_person B_person,
+can i have a list of spanish speaking movies,B_person B_person B_person B_person B_person B_person B_language B_person B_person,movie.language
+show me movies made in mexico,B_person I_movie B_person B_person B_person I_movie,movie.country movie.language
+show me the movie pot zombies,B_person B_person B_person B_person B_producer B_director,movie.subjects
+what movies have zombies in them,B_person B_person B_person B_director B_person B_person,movie.subjects
+show me movies about zombies,B_person B_person B_person B_person B_director,movie.subjects
+show me movies about zombies,B_person B_person B_person B_person B_director,movie.subjects
+show me ones by david fincher,B_person B_person I_char B_person B_person B_person,movie.directed_by movie.starring.actor
+show ridley scott 's filmography,B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date
+find ridley scott movies,B_person I_char B_person B_person,movie.directed_by movie.rating
+can you show me movies directed by ridley scott,B_person B_person B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by
+list german movies,B_person I_movie B_person,movie.country movie.language
+german movies,I_movie B_person,movie.country movie.language movie.subjects
+find action films,B_person I_mpaa_rating B_person,movie.genre movie.subjects
+find some action movies,B_person B_person I_mpaa_rating B_person,
+list dredd movie,B_person B_person B_person,movie.starring.actor
+show me george lucas movies,B_person B_person B_person B_person B_person,movie.starring.actor
+find movies directed by george lucas,B_person B_person B_person B_person I_producer I_producer,movie.directed_by
+produced by,B_person B_person,movie.initial_release_date movie.produced_by movie.production_companies
+please find movies produced by morgan freeman,B_person B_person B_person B_person B_person B_subject B_country,movie.produced_by
+please look up movies produced by morgan freeman,B_person B_person B_subject B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+search for movies produced by morgan freeman,B_person B_person B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+find movies produced by morgan freeman,B_person B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+look up movies produced by morgan freeman,B_person B_subject B_person B_person B_person B_subject B_country,movie.produced_by movie.production_companies
+what movies has meryl streep starred in,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+show me the movies directed by the director of this movie,B_person I_producer B_person B_person B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by
+i want to see movies made in russia,I_movie B_person B_person B_person B_person B_person B_person I_movie,movie.country
+look up star wars four movie,B_person B_person B_movie B_producer B_producer B_person,none
+display all details about star wars-a new hope movie,B_person B_person B_person B_person B_person B_person B_producer B_producer B_person,none
+get all details about star wars-a new hope movie,B_person B_person B_person B_person B_movie B_person B_producer B_producer B_person,none
+star wars episode four,B_movie B_producer B_producer B_producer,none
+i want star wars four main page,B_person B_person B_movie B_producer B_producer B_producer B_person,none
+search star wars four,B_person B_movie B_producer B_producer,none
+find me tons of info related to star wars four,B_person B_person B_producer B_person B_person B_person B_person B_movie B_producer B_producer,none
+get details of in july movie,B_person B_person B_person B_movie B_person B_person,none
+find details of in july movie,B_person B_person B_person B_movie B_person B_person,none
+show details of in july movie,B_person B_person B_person B_movie B_person B_person,movie.starring.actor none
+tell me about in july movie,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+look up the movie in july,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+display information for the movie title in july,B_person B_person B_person B_person B_person B_person B_movie B_person,movie.starring.actor
+movie in july data,B_person B_person B_person B_person,movie.starring.actor
+where can i find the movie aankhen in hindi,B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.language
+display julia roberts films,B_person B_person B_person B_person,movie.starring.actor
+list the movies that have the actress angelina jolie,B_person B_person B_person B_person B_person B_person B_person B_person B_mpaa_rating,movie.starring.actor
+dustin hoffman movies,B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies did david ayer direct,B_person B_person B_person B_person B_person B_person,movie.directed_by
+i would like to view movies produced by clint eastwood,B_subject B_person B_person B_person B_person B_person B_person B_person B_subject B_subject,movie.produced_by
+list all movies about horses,B_person B_person B_person B_person B_director,movie.subjects
+find all johnny depp movies,B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+search by director,B_person B_person B_person,movie.directed_by
+search by director,B_person B_person B_person,movie.directed_by
+is there any upcoming movies from warner brothers,B_person B_person B_person B_person B_person B_person B_person B_country,movie.starring.actor
+bring up movies with ice skating in it,B_person B_person B_person B_person B_director I_director B_person B_person,movie.starring.actor movie.subjects
+find newly released comedies from england,B_person B_person B_person B_movie B_person B_person,movie.initial_release_date
+i need info on house at the end of the street,B_person B_person B_person B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+what is the houses at the end of the street about,B_person B_person B_person B_producer B_person B_person B_producer B_person B_person B_producer B_person,none
+give me more facts about the movie house at the end of the street in detail,B_person B_person B_person B_person B_person B_producer B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer B_producer B_person,none
+i would like to know in detail about the movie house at the end of the street,B_person B_person B_person B_person B_person B_producer B_person B_person B_producer B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+display movie information for the film house at the end of the street,B_person B_person B_person B_person B_producer B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+films with chinese,B_person B_person I_movie,movie.country movie.language
+i want to watch a movie in chinese,B_person B_person B_person B_person B_person B_person B_person B_language,movie.country movie.language
+find movies produced and directed by tyler perry,B_person B_person B_person B_person B_person B_person B_subject B_genre,movie.directed_by movie.produced_by
+tom cruise movies please,I_genre B_mpaa_rating B_person B_person,movie.starring.actor
+i want tom cruise movies please,B_person B_person I_genre B_mpaa_rating B_person B_person,movie.starring.actor
+which movies star tom cruise,B_person B_person B_person I_genre B_mpaa_rating,movie.starring.actor
+which movies do tom cruise play in,B_person B_person B_person I_genre B_mpaa_rating B_person B_person,movie.starring.actor
+find end of watch,B_person B_director B_person B_person,movie.subjects
+search by genre,B_person B_person B_movie,movie.produced_by
+looking for movies of yash chopra,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+find me information about the campaign movie,B_person B_person B_person B_person B_person B_producer B_person,none
+information for movie the campaign,B_person B_person B_person B_person B_producer,
+show me info on the movie the campaign please,B_person B_person B_person B_person B_person B_person B_person B_producer B_person,
+i need to see all the details about the movie the campaign,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer,none
+sort all pg movies,B_person B_person I_subject B_person,movie.rating
+pg rated movies,I_subject B_person B_person,movie.initial_release_date movie.rating
+access a list of pg movies please,B_person B_person B_person B_person I_subject B_person B_person,movie.rating
+give me a list of pg movies,B_person B_person B_person B_person B_person I_subject B_person,movie.rating
+can you find me a list of pg rated movies to watch,B_person B_person B_person B_person B_person B_person B_person I_subject B_person B_person B_person B_person,movie.rating
+show me a list of pg rated movies,B_person B_person B_person B_person B_person I_subject B_person B_person,movie.rating
+find movies with a pg rating,B_person B_person B_person B_person I_subject B_person,movie.rating
+what movies are pg,B_person B_person B_person I_subject,movie.rating
+movies by alfred hitchcock,B_person B_person I_producer I_producer,movie.directed_by
+what movies did alfred hitchcock make,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+watch hitchcook movies,B_person B_person B_person,movie.directed_by
+i want to see any current movies starring tom hanks,B_mpaa_rating B_person B_person B_person B_mpaa_rating B_person B_person B_person I_genre B_mpaa_rating,movie.starring.actor
+i want a list of recent movies rated pg,B_person B_person B_person B_person B_person B_person B_person B_person I_subject,movie.rating
+give me a list of recent movies rated pg,B_person B_person B_person B_person B_person B_person B_person B_person I_subject,movie.rating
+ray stark produced what other movies,B_subject B_country B_person B_person B_person B_person,movie.produced_by
+what is spielberg 's latest movie,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+please find movies directed by tom hanks,B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by movie.starring.actor
+are there any recent movies that are polish speaking,B_person B_person B_person B_person B_person B_person B_person I_genre B_person,
+what movies has tom cruise been in recently,B_person B_person B_person I_genre B_mpaa_rating B_person B_person B_person,movie.starring.actor
+search for new movies,B_person B_person B_person B_person,movie.starring.actor
+search for in july,B_person B_person B_movie B_person,movie.starring.actor none
+watch in july online,B_person B_person B_person B_person,movie.starring.actor
+search for information about lionsgate,B_person B_person B_person O O,none
+lionsgate info,B_person B_person,movie.initial_release_date movie.starring.actor none
+find information about paramount studios,B_person B_person B_person B_subject B_person,none
+who is ray stark,B_person B_person B_subject O,movie.initial_release_date none
+find information on charles vidor,B_person B_person B_person B_person B_person,none
+i want to look up information about tom cruise,B_person B_person B_person B_person B_person B_person B_person I_person O,movie.starring.actor none
+can you please search details about will ferrell,O O B_person B_person B_person O O O,none
+will ferrell biography,B_person B_person B_person,movie.initial_release_date none
+show will ferrell biography,B_person B_person B_person B_person,movie.initial_release_date
+show me a complete biography of will ferrell,B_person B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date
+show me information on will ferrell,B_person B_person B_person B_person B_person B_person,none
+show me will ferrell 's bio,B_person B_person B_person B_person B_person B_person,none
+get info on kristen stewart,B_person B_person B_person B_person B_person,none
+does kristen stewart have a personal page,B_person B_person B_person B_person B_person B_person B_person,none
+where can i find information about kristen stewart,B_person B_person B_person B_person B_person B_person B_person B_person,none
+jennifer aniston bio,B_person B_person B_person,none
+i want to see spielberg 's main page,B_person B_person B_person B_person B_person B_person B_person B_person,none
+steven spielberg summary,B_person B_person B_person,movie.initial_release_date movie.starring.actor none
+about steven spielberg,B_person B_person B_person,movie.directed_by movie.initial_release_date movie.starring.actor none
+find me bio details for steven spielberg,B_person O B_person B_person B_person O O,none
+bio for steven spielberg,B_person B_person B_person B_person,none
+show me alfred hitchcock,B_person B_person B_person B_person,movie.starring.actor
+i want more information about alfred hitchock 's biography,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date none
+all info hitchcock,B_person B_person B_person,movie.initial_release_date movie.starring.actor none
+find the name of the producer of avatar,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.produced_by
+producer hitch,B_person B_movie,movie.estimated_budget movie.initial_release_date movie.produced_by movie.production_companies movie.rating
+who produces hitch,B_person B_person B_movie,movie.starring.actor
+production company for transformers,B_person B_person B_person B_movie,
+what company made et,B_person B_person B_person B_person,movie.rating
+what was the production company for et,B_person B_person B_person B_person B_person B_person B_movie,
+who produces cars,B_person B_person B_movie,movie.initial_release_date
+can you find who produced cars,B_person B_person B_person B_person B_person B_movie,movie.produced_by
+production company for devil,B_person B_person B_person B_producer,movie.estimated_budget movie.initial_release_date
+who produced the movie steel magnolias,B_person B_person B_person B_person B_movie B_producer,movie.produced_by
+who produced avatar,B_person B_person B_movie,movie.produced_by
+i want to know the producer of avatar,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget
+who produced avatar,B_person B_person B_movie,movie.produced_by
+who produced avatar,B_person B_person B_movie,movie.produced_by
+avatar producer,B_movie B_person,movie.estimated_budget movie.initial_release_date movie.produced_by movie.rating
+i would like to know who produced the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.produced_by
+who produced the movie avatar,B_person B_person B_person B_person B_movie,movie.produced_by
+who are the producers for the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget
+what is grease 's producer,B_person B_person B_movie B_person B_person,movie.produced_by
+who produced grease,B_person B_person B_movie,movie.produced_by
+who produced the movie my big fat greek wedding,B_person B_person B_person B_person B_person B_producer B_producer B_producer B_person,movie.produced_by
+who produced pretty woman,B_person B_person B_movie B_producer,movie.produced_by
+tell me the producer for the godfather,B_person B_person B_movie B_person B_person B_movie B_producer,movie.produced_by
+the godfather was produced by,B_person B_producer B_person B_person B_person,movie.produced_by
+who produced the movie clue,B_person B_person B_person B_person B_movie,movie.produced_by
+who produced hotel rwanda,B_person B_person B_movie B_person,movie.produced_by
+who produced marley and me,B_person B_person B_person B_person B_person,movie.produced_by
+who produced despicable me,B_person B_person B_country B_person,movie.produced_by
+who is the company that produced the movie inception,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+what company developed the movie inception,B_person B_person B_person B_person B_person B_movie,
+find producer of the great debaters,B_person B_person B_person B_movie B_producer B_producer,movie.produced_by
+who produced inception,B_person B_person B_movie,movie.produced_by
+provide the name of the company that produced sparkle,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,
+i need to know the company that produced sparkle,B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.produced_by
+find the producer of look who 's talking,B_person B_person B_person B_person B_person B_person B_person B_producer,
+who produced harlem nights,B_person B_person B_person B_person,movie.produced_by
+find the producer of step up,B_person B_person B_person B_person B_movie B_person,
+please find the producer of freedom writers,B_person B_person B_person B_person B_person B_movie B_producer,movie.produced_by
+look for the producer of freedom writers,B_person B_person B_person B_person B_person B_movie B_producer,movie.produced_by
+show me movie rating,B_person B_person B_person B_person,movie.rating
+how much revenue did pretty woman make,B_person B_person B_person B_person B_movie B_person B_person,movie.initial_release_date
+earnings for pretty woman,B_person B_person B_movie B_producer,movie.initial_release_date
+what was the revenue of pretty woman,B_person B_person B_person B_person B_person B_movie B_producer,
+how much did pretty woman make,B_person B_person B_person B_movie B_person B_person,movie.initial_release_date none
+what was the gross revenue for the avengers,B_person B_person B_movie B_person B_person B_person B_movie B_producer,
+how much did the avengers make,B_person B_person B_person B_movie B_producer B_person,
+revenue for the avengers,B_person B_person B_movie B_producer,
+how much did the dark night generate in revenues,B_person B_person B_person B_movie B_producer B_producer B_person B_person B_person,movie.starring.actor
+find revenue totals for jurassic park,B_person B_person B_person B_person B_person B_producer,
+revenue for independence day,B_person B_person B_person B_producer,
+what is the new will ferrell movie about,B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+who played the voice of nemo in finding nemo,B_person B_person B_person B_person B_person B_person B_person B_movie B_person,movie.starring.actor
+who played richie cunningham in happy days,B_person B_person B_person B_person B_person B_person B_producer,movie.starring.actor
+who stars in house at the end of the street,B_person B_person B_producer B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+show me the cast for the house at the end of the street,B_person B_person B_producer B_person B_person B_producer B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+cast and crew of house at the end of the street,B_person B_person B_person B_producer B_movie B_person B_producer B_producer B_producer B_producer B_producer,movie.starring.actor
+ethel actress from i love lucy,B_person B_person B_person B_person B_producer B_person,
+actress who played ethel on i love lucy,B_person B_person B_movie B_person B_movie B_person B_producer B_person,
+who are the cast members in lord of the rings the two towers,B_person B_person B_person B_person B_person B_person B_producer B_producer B_person B_producer B_person B_movie B_producer,
+who played hawkeye in mash,B_person B_person B_person B_person B_person,movie.starring.actor
+who played mother in tarkovsky 's mirror,B_person B_person B_language B_person B_person B_person B_language,movie.language movie.starring.actor
+show me the actor of the movie muthyala muggu,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+who are the droids in star wars episode four,B_person B_person B_person B_producer B_person B_movie B_producer B_producer B_producer,none
+who was that guy again who was in the avengers,B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.starring.actor
+which actor played frodo in lord of the rings,B_person B_person B_person B_person B_person B_producer B_person B_person B_producer,movie.starring.actor
+find the name of the actress who played mother in mirror by andrey tarkovsky,B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_movie B_person B_person B_person,movie.starring.actor
+what is the name of the actress who played mother in tarkovsky 's mirror,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_person B_person B_movie,movie.starring.actor
+what is the name of the actor who played todd in the tv show one life to live,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_producer B_movie B_person B_person,movie.starring.actor
+give me the name of the main actress in platoon,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.starring.actor
+what's the name of the mom on seinfeld,B_person B_person B_person B_person B_person B_person B_person B_person,
+name the co-star in shoot to kill,B_person B_person B_producer B_person B_movie B_person B_producer,movie.starring.actor
+what is the name of the actor who played atticus finch in to kill a mockingbird,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_person,movie.starring.actor
+show me the name of the guy who was the father and a lawyer in to kill a mockingbird,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_producer B_person B_producer B_person B_person B_producer B_person B_person,movie.starring.actor
+please provide the cost for producing the deer hunter,B_person B_person B_movie B_person B_person B_person B_movie B_producer B_producer,movie.initial_release_date
+what is the budget for epic,B_person B_person B_person B_person B_person B_movie,
+search budget for the movie epic,B_person B_person B_person B_person B_person B_movie,
+what was the budget for fire proof,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what was the budget for fly whele,B_person B_person B_person B_person B_person B_person B_person,
+what was the budget for 1st harry potter movie,B_person B_person B_person B_person B_person B_person B_person B_producer B_person,movie.rating
+how much was spent on shooting the last harry potter film,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_director B_person,
+how much does it cost to produce looper,B_person B_person B_person B_person B_person B_person B_person B_movie,
+how much did it cost to produce looper,B_person B_person B_person B_person B_person B_person B_person B_movie,
+how much money was spent to produce looper,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.initial_release_date
+how much did men in black 3 cost,B_person B_person B_person B_movie B_person B_producer B_producer B_person,movie.starring.actor
+how much was it to make paranorman,B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date none
+show me the budget to rebel movie,B_person B_person B_person B_person B_person B_movie B_person,
+show me the budget for star wars 2,B_person B_person B_movie B_person B_person B_movie B_producer B_producer,movie.estimated_budget
+how much did it cost to create the boardwalk empire,B_person B_person B_person B_person B_person B_person B_producer B_movie B_producer B_person,
+show me the budget for expendables 1,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+what was the budget for finding nemo in 3d,B_person B_person B_person B_person B_person B_movie B_person B_person B_person,movie.starring.actor
+liongate,B_person,movie.directed_by movie.initial_release_date movie.starring.actor none
+which country made inchochine,B_person B_person B_person B_person,movie.country
+what country filed les mes,B_person B_person B_movie B_person B_person,
+what country is les mes from,B_person B_person B_person B_person B_movie B_person,movie.rating
+where was the milk of sorrow made,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+what country is shawshank redemption,B_person B_person B_person B_person B_movie,
+what country does the movie thoda pyaar thoda magic comes from,B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_person,
+tell me where the white ribbon came from,B_person B_person B_person B_person B_person B_producer B_person B_person,movie.initial_release_date
+when was the movie barfi! released,B_person B_person B_person B_person B_person B_person,movie.initial_release_date movie.rating
+what are the dates for the movie barfi!,B_person B_person B_person B_producer B_person B_person B_person B_person,
+release date of the new bugs bunny film,B_person B_person B_person B_person B_producer B_producer B_producer B_person,movie.initial_release_date movie.rating
+what is the release date of evil goes global,B_person B_person B_movie B_person B_person B_person B_producer B_movie B_movie,movie.initial_release_date
+what is the release date for jaws 17 in the theaters,B_person B_person B_person B_person B_person B_person B_movie B_producer B_person B_person B_person,movie.initial_release_date
+what is the release date for jurassic park 4,B_movie B_person B_movie B_person B_person B_person B_movie B_producer B_movie,movie.initial_release_date
+list release dates for the jurassic park movies,B_person B_person B_mpaa_rating B_person B_person B_person B_producer B_person,
+when will the movie omg oh my god be released,B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_person,movie.initial_release_date
+when was the lord of the rings movie released,B_person B_person B_person B_producer B_producer B_person B_producer B_person B_person,movie.initial_release_date movie.rating
+whats paranormal activities release date,B_person B_movie B_person B_person B_person,movie.initial_release_date movie.rating
+when will robocop come out,B_person B_person B_person B_person B_person,movie.estimated_budget movie.initial_release_date movie.starring.actor
+when was suckerpunch be released,B_person B_person B_person B_person B_person,movie.initial_release_date
+when was the sound of music released,B_person B_person B_movie B_producer B_producer B_producer B_person,movie.initial_release_date
+when will twilight breaking dawn part 2 be released,B_person B_person B_movie B_person B_producer B_person B_person B_person B_person,movie.initial_release_date
+who directed ai,B_person B_person B_person,movie.directed_by movie.starring.actor
+find the director of downton abbey,B_person B_person B_person B_person B_person B_producer,movie.directed_by
+who directed good bad and ugly,B_person B_person B_person B_person B_person B_producer,movie.directed_by
+i can't remember who directed star wars,B_person B_person B_person B_person B_person B_person B_producer,movie.starring.actor none
+find the director of to kill a mockingbird,B_person B_movie B_person B_person B_person B_producer B_person B_producer,movie.directed_by movie.initial_release_date
+is amelie in a different language,B_person B_person B_person B_person B_person B_person,movie.language
+what language was amelie filmed in,B_person B_person B_person B_person B_person B_person,movie.language
+what language is the full monty in,B_person B_person B_person B_person B_person B_person B_person,movie.language
+what is ju on 's original language,B_person B_person B_movie B_producer B_person B_person B_person,movie.language
+what language is secrets and lies in,B_person B_person B_person B_person B_producer B_movie B_person,movie.language
+give me names of some action movies with a pg thirteen rating,B_person B_person B_person B_person B_person I_mpaa_rating B_person B_person B_person I_subject I_char B_person,movie.rating
+show all comedy musicals for twenty twelve,B_person B_person I_mpaa_rating I_mpaa_rating B_person B_country B_producer,
+are there any documentaries on classic cars,B_person B_person B_person B_person B_person B_person B_movie,movie.initial_release_date
+show all dramas produced in 2010,B_person B_person I_mpaa_rating B_person B_person B_language,
+find some mysteries,B_person B_person B_person,movie.directed_by
+search romantic commedies,B_person I_mpaa_rating B_person,
+sci-fi,B_producer,movie.estimated_budget movie.initial_release_date movie.rating
+show me westerns,B_person B_person I_mpaa_rating,movie.genre
+show car documentaries,B_person B_person B_person,movie.initial_release_date movie.rating
+show me a katie holmes flick,B_person B_person B_person B_person B_person B_person,
+i want to see videos of steven spielberg,B_person B_person B_person B_person B_person B_person B_person B_person,none
+videos related to steven spielberg,B_person B_person B_person B_person B_person,
+new released videos,B_person B_person B_person,movie.initial_release_date movie.rating
+i want to see brazilian movies,B_person B_person B_person B_person B_person B_person,
+show all canandian movies for nineteen eighty,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what movies were made in ireland this year,I_movie B_person I_movie B_person B_person I_movie I_movie B_person,movie.country
+find philipino movies in english,B_person B_person B_person B_person B_language,movie.language
+show me the highest-grossing movies from portugal,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+find movies in america about obama,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+i'd love to watch an albert ruddy movie,B_person B_person B_person B_person B_person B_person B_country B_person,
+what other films has arthur ruddy done,B_person B_person B_person B_person B_person B_country B_person,movie.subjects
+bring up all movies brad pitt directed,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+what movies has brad pitt directed,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+movies by david selsnic,B_person B_person I_producer I_producer,movie.directed_by
+did holly hunter direct any movies,B_person B_person B_genre B_person B_person B_person,movie.directed_by
+what movies did joe coen do,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+movies by john paul as a director,B_person B_person I_producer B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+show me movies directed by john paul,B_person B_person B_person B_person B_person I_producer B_person,movie.directed_by movie.starring.actor
+tom cruise has directed what movies,I_genre B_mpaa_rating B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+please list all movies directed by tom cruise,B_person B_person B_person B_person B_person B_person I_producer B_genre,movie.directed_by movie.starring.actor
+wesley snipes directed what movie,B_person B_person B_person B_person B_person,movie.directed_by
+find action movies with john travolta,B_person I_mpaa_rating B_person B_person I_person B_person,movie.starring.actor
+show all animation films for twenty twelve,B_person B_person B_person B_person B_person I_genre I_release_year,
+animated pg thirteen movies,B_person I_subject I_char B_person,movie.rating
+physfi movies,B_person B_person,movie.directed_by movie.starring.actor
+i like sci-fi movies,B_person B_person I_mpaa_rating B_person,movie.rating movie.subjects
+show me films released in september,B_person B_person B_person B_person B_person B_language,movie.language
+show all movies released in september,B_person B_person B_person B_person B_person B_language,movie.language
+look up all movies coming in september,B_person B_person B_person B_person B_person B_person B_language,movie.language movie.starring.actor
+find movies for twenty ten,B_person B_person B_person B_language B_director,movie.subjects
+most recent zombie movies,B_person B_person B_director B_person,movie.subjects
+search for movies in chinese,B_person B_person B_person B_person B_language,movie.country movie.language
+find me movies that are in chinese,B_person B_person B_person B_person B_person B_person B_language,movie.country movie.language
+i want to see a list of all movies shown in english,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.language
+find movies in farsi,B_person B_person B_person I_movie,movie.starring.actor
+send me movies that are in french,B_person B_person B_person B_person B_person B_person B_language,movie.language
+find movies in french,B_person B_person B_person B_language,movie.language
+i would like a list of movies in french,B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.country movie.language
+movies in french,B_person B_person B_language,movie.language
+i want to find movies using the french langauage,B_person B_person B_person B_person B_person B_director B_person B_language B_person,movie.country movie.language movie.subjects
+i want movies in french,B_person B_person B_person B_person B_language,movie.country movie.language
+find movies in german before 2000,B_person B_person B_person B_language B_person I_producer,movie.language
+give me some movies which were filmed in polish,B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.language
+find movies in portugese,B_person B_person B_person I_movie,movie.starring.actor
+show all movies in spanish,B_person B_person B_person B_person B_language,movie.language
+list of movies in the spanish language,B_person B_person B_person B_person B_person B_language I-movie,movie.language
+movies in spanish,B_person B_person B_language,movie.language
+i am searching for movies in spanish,B_person B_person B_person B_person B_person B_person B_language,movie.language
+i would like to look for movies in spanish,B_person B_person B_person B_person B_person B_person B_person B_person B_language,movie.country movie.language
+find movies in swahili,B_person B_person B_person I_movie,movie.starring.actor
+show me a list of all movies produced by alfred ruddy,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_country,movie.produced_by
+what other movies charles vidor produce,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+has jennifer anniston produced movies,B_person B_person B_person B_person B_person,movie.produced_by
+show me the movies produced by m s raju,B_person B_subject B_person B_person B_person B_person B_subject B_subject B_subject,movie.produced_by
+list the movies created by 7 arts,B_person B_person B_person B_subject B_person B_subject B_country,movie.produced_by movie.production_companies
+lionsgate = i would like to get a list of your movies from two thousand and nine to two thousand and twelve,B_person I_mpaa_rating B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person B_person I_genre B_person B_movie B_person B_person B_person,
+twentieth century fox movies 2012,B_subject B_country B_country B_person B_person,movie.produced_by movie.production_companies
+show me nc minus seventeen rated movies,B_person B_person B_person I_subject B_person B_person B_person,movie.rating
+show me movies with not rated rating,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+give me a list of nr movies,B_person B_person B_person B_person B_person B_director B_person,movie.rating
+what is a list of pg thirteen action movies,B_person B_person B_person B_person B_person I_subject I_char I_mpaa_rating B_person,movie.rating
+i want to see a pg thirteen movie,B_person B_person B_person B_person B_person I_subject I_char B_person,movie.rating
+show me a complete list of r rated movies that came out in the last 30 days,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_language,
+show me all rated r movies by paramount,B_person B_person B_person B_person B_person B_person B_person B_subject,movie.rating
+show me movies that are unrated,B_person B_person B_person B_person B_person B_person,movie.rating
+list movies from 1995 with adam sandler,B_person B_person B_person B_person B_person I_genre B_person,movie.starring.actor
+i want to see movies with alan rickmman,B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+which movies has angelina jolie starred this season,B_person B_person B_person B_person B_mpaa_rating B_person B_person B_person,movie.starring.actor
+what movie was angelina a main actress,B_person B_person B_person B_person B_person B_person B_person,
+look up movies starring the singer mario,B_person B_person B_person B_person B_person I_genre B_person,movie.starring.actor
+i want to find movies starring the singer mario,B_mpaa_rating B_person B_person B_person B_person B_person B_person I_genre B_mpaa_rating,movie.starring.actor
+look for movies with max von sudow,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+show me movies that have patrick swayze and jennifer grey in them,B_person B_person B_person B_person B_person B_person B_person B_person B_person I_genre B_person B_person,movie.starring.actor
+show me movies that star patrick swayze starred in from nineteen eighty seven,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what is that dancing movie with patrick swayze,B_person B_person B_person B_producer B_person B_person B_person B_person,movie.starring.actor
+movies of sharukh khan,B_person B_person B_person B_person,
+movie that tom hanks and kevin becon played in together,B_person B_person I_genre B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+movies about animals,B_person B_person B_person,movie.starring.actor
+show me movies about bollywood,B_person B_person B_person B_person B_mpaa_rating,movie.starring.actor
+chess movies,B_director B_person,movie.subjects
+show me movies on chess,B_person B_person B_person B_person B_director,movie.subjects
+what are some movies about disco,B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+what movies can offer tips on gardening,B_person B_person B_person B_person B_director B_person B_person,
+i want to look up movies about hair,B_person B_person B_person B_person B_person B_person B_person B_person,
+find movies about libraries,B_person B_person I_subject B_person,movie.rating
+find some movies about musicians,B_person B_person B_person B_person B_person,movie.directed_by movie.rating
+can you find movies about preschool boys,B_person B_person B_person B_person B_person I_mpaa_rating B_person,movie.rating
+look for movies about preschool boys,B_person B_person B_person B_person B_subject B_person,movie.rating
+what films focus on rape and victim 's rights,B_person B_person B_person B_person B_subject B_person B_person B_person B_person,
+i would like to know names of some movies on religious issues,B_person B_person B_person B_person B_person B_person B_person B_person B_person I_director B_person B_person,
+give me a list of some movies on religious issues,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,
+look for movies about school,B_person B_person B_person B_person I_genre,movie.starring.actor
+tell me the names of some soccer movies,B_person B_person B_person B_person B_person B_person B_genre B_person,movie.directed_by
+what are some time travel movies i can watch,B_person B_person B_person B_director I_director B_person B_person B_person B_person,movie.subjects
+show me movies involving time travel,B_person B_person B_person B_person B_director I_director,movie.subjects
+vampire movies please,B_person B_person B_person,movie.starring.actor
+list movies with a theme of war in them,B_person B_person B_person B_person B_person B_person B_director B_person B_person,movie.subjects
+show all movies with the theme of war,B_person B_person B_person B_person B_person B_person B_person B_director,movie.subjects
+can you find me some movies about war,B_person B_person B_person B_person B_person B_person B_person B_director,movie.directed_by movie.subjects
+i want a list of movies about war,B_person B_person B_person B_person B_person B_person B_person B_director,movie.subjects
+i want movies about war,B_person B_person B_person B_person B_director,movie.subjects
+find movies about world war two,B_person B_person B_person B_person B_director B_director,movie.subjects
+what are some zombie apocalypse movies,B_person B_person B_person B_director B_director B_person,movie.subjects
+search for zombie movies,B_person B_person B_director B_person,movie.subjects
+show me belle in spanish,B_person B_person B_movie B_person B_language,movie.language
+is dredd rated r,B_person B_person B_person B_person,movie.rating
+take me to the french version of et,B_person B_person B_person B_person B_producer B_producer B_person B_person,
+find et in french,B_person B_person B_person B_language,movie.language
+find fast and furious in japanese,B_person B_person B_person B_producer B_person B_language,movie.language
+hard day 's night richard lester,B_person B_person B_person B_producer B_person B_person,
+information about movie life is beautiful,B_person B_person B_person B_movie B_producer B_producer,none
+movie information for life is beautiful,B_person B_person B_person B_movie B_producer B_producer,none
+will you please show me info on the movie life is beautiful,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_producer B_producer,none
+can you please show me info on the movie life is beautiful,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_producer B_producer,none
+show me details to the movie life is beautiful,B_person B_person B_person B_person B_person B_person B_movie B_producer B_producer,none
+show me info on the movie life is beautiful please,B_person B_person B_person B_person B_person B_person B_movie B_producer B_producer B_person,none
+open a page about the movie life is beautiful,B_person B_person B_person B_person B_person B_person B_movie B_producer B_producer,none
+is nine fourteen the premiere date for resident evil,B_person B_producer B_person B_person B_producer B_person B_person B_movie B_producer,movie.initial_release_date movie.rating
+select rio in chinese,B_person B_person B_person B_language,movie.language
+find me the first star wars movie info,B_person B_person B_person B_person B_person B_producer B_person B_person,
+i need details about the movie star wars:episode four -a new hope,B_person B_person B_person B_person B_person B_person B_movie B_person B_producer B_person B_producer B_producer,none
+did ray stark produce steel magnolias,B_person B_person O B_person B_person B_producer,
+is the movie toy story 4 being released next summer,B_person B_person B_person B_movie B_producer B_person B_person B_person B_person B_person,movie.initial_release_date
+i want to look up information about american movies,B_person B_person B_person B_person B_person B_person B_person I_mpaa_rating B_person,
+chinese foreign film with kungfu,B_language B_person B_person B_person B_person,movie.country movie.language
+french movies for twenty twelve,B_language B_person B_person B_country B_genre,movie.language
+look for russian movies by mosfilm,B_person B_person I_producer B_person B_person B_person,
+show production company lionsgate,B_person B_person B_person B_person,movie.initial_release_date movie.rating
+paramount film studios,B_subject B_person B_person,movie.initial_release_date movie.produced_by
+i would like to have more information about the producer ray stark,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person I_person O,none
+show me details for the director steven spielberg,B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date
+show me that actor tom cruise,B_person B_person B_person B_person I_person O,movie.starring.actor
+i would like information about the actor will ferrell,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor none
+who produced the movie great debaters,B_person B_person B_person B_person B_producer B_producer,movie.produced_by
+king 's speech production company,B_producer B_person B_person B_person B_person,
+i wonder who produced star wars,B_person B_person B_person B_person B_movie B_producer,movie.produced_by
+i can 't remember who produced star wars,B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.produced_by none
+who produced star wars,B_person B_person B_movie B_producer,movie.produced_by none
+movie producers,B_person B_person,
+how much did end of watch gross,B_person B_person B_person B_producer B_person B_person B_person,movie.starring.actor
+how much did movie earn,B_person B_person B_person B_person B_person,movie.starring.actor
+show me the earnings for hotel transylvania,B_person B_person B_person B_person B_person B_movie B_person,
+what did the movie the house at the end of the steet gross,B_person B_person B_person B_person B_person B_movie B_person B_person B_producer B_producer B_person B_person B_person,none
+revenue for iron man 2,B_person B_person B_movie B_producer B_producer,movie.estimated_budget
+what amount of revenue did iron man make,B_person B_person B_person B_person B_person B_movie B_producer B_person,
+what was the gross revenue of iron man,B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.estimated_budget movie.initial_release_date
+kahani 's revenue,B_person B_person B_person,movie.directed_by movie.initial_release_date none
+get the revenue of kahani,B_person B_person B_person B_person B_person,
+revenue looper,B_person B_person,movie.estimated_budget movie.initial_release_date movie.produced_by
+how much did looper gross in sales,B_person B_person B_person B_movie B_person B_person B_person,movie.starring.actor
+how much did looper gross,B_person B_person B_person B_movie B_person,movie.initial_release_date
+ho much did looper make,B_person B_person B_person B_movie B_person,movie.initial_release_date
+how much money did mr and mrs smith make,B_person B_person B_person B_person B_producer B_person B_person O B_person,
+how much money did the movie mr and mrs smith make,B_person B_person B_person B_person B_person B_person B_producer B_person B_person B_producer B_person,
+in the movie mr and mrs smith how much money did the box offfice report,B_person B_person B_person B_producer B_person B_person B_producer B_person B_person B_person B_person B_person B_person B_person B_movie,
+how much money did philadelphia make,B_person B_person B_person B_person B_person B_person,none
+i want to know what the revenue for pirates was,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,
+how much was made from platoon,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what was the gross revenue earned by star wars in its original release,B_person B_person B_person B_person B_person B_person B_person B_person B_producer B_person B_person B_person B_person,movie.starring.actor
+what was the total gross receipts at the box office for the movie star wars,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_producer,
+what were the gross receipts for hunger games,B_person B_person B_movie B_person B_person B_person B_producer B_producer,movie.starring.actor
+tell me how much money tommy boy made,B_person B_person B_person B_person B_person B_person B_movie B_person,
+how much revenue did top gun make,B_person B_person B_person B_person B_movie B_producer B_person,
+tell me the revenue of training day,B_person B_person B_person B_person B_person B_person B_person,
+what is life is beautiful about,B_person B_producer B_movie B_producer B_producer B_person,none
+show me a list of production companies,B_person B_person B_person B_person B_person B_person B_person,
+find the male actor from grand torino,B_person B_person B_person B_person B_person B_person B_person,
+who played the female lead in hitch,B_person B_person B_person B_person B_person B_person B_movie,movie.starring.actor
+find the female actress from shallow hal,B_person B_person B_producer B_person B_person B_producer B_producer,
+who is in picture three,B_person B_person B_person B_person B_person,movie.initial_release_date movie.starring.actor
+who are the lead actors,B_person B_person B_person B_person B_person,movie.starring.actor
+how old is jennifer aniston,B_person B_person B_person B_person B_person,
+when was will ferrell born,B_person B_person B_person B_person B_person,movie.initial_release_date movie.starring.actor
+where was black swan directed,B_person B_person B_movie B_producer B_person,movie.starring.actor
+where was muriel's wedding shot,B_person B_person B_person B_person B_person,movie.initial_release_date none
+show release date in the usa for the movie little women,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.initial_release_date movie.starring.actor
+show movie description,B_person B_person B_person,
+i'd like to see popular film directors from the nineteen fifty 's through today,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,
+best director,B_person B_person,movie.directed_by
+best directors of all time,B_person B_person B_person B_person B_director,movie.subjects
+please show me famous film directors,B_person B_person B_person B_person B_person B_person,
+greatest directors,B_movie B_person,movie.country movie.genre movie.language movie.rating
+who produced some of the most popular movies,B_person B_person B_person B_person B_person B_person B_person B_person,movie.produced_by
+show me successful movie directors,B_person B_person I_mpaa_rating B_person B_person,
+who produced hotel rwanda cover art,B_person B_person B_movie B_person B_person B_person,movie.produced_by
+who's the director,B_person B_person B_person,movie.directed_by movie.initial_release_date
+director's name,B_person B_person,movie.initial_release_date movie.starring.actor
+what is the name of a turkish director that produced a drama film,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person I_mpaa_rating B_person,
+watch dredd movie,B_person B_person B_person,movie.directed_by movie.starring.actor
+see dredd movie,B_person B_person B_person,movie.starring.actor
+what was the name of an academy award winning russian documentary,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person,
+what movie titles starring meryl streep earned oscar nominations,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+in search for names of crew members please,B_movie B_person B_person B_person B_person B_person B_producer B_person,movie.starring.actor
+get me reviews and info about the campaign movie,B_person B_person B_person B_person B_person B_person B_person B_producer B_person,
+show me reviews and info for the campaign,B_person B_person B_person B_person B_person B_person B_movie B_producer,
+what movies that clint eastwood direct that he won the best director oscar for,B_person B_person B_person B_person B_person B_person B_person B_person B_genre B_person B_person B_person B_person B_person,movie.directed_by
+what 's hitchcock 's most famous movie,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.starring.actor
+tell me some of walter f parkes best movies,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+looking for movies directed by actor number one,B_person B_person B_person B_person B_person B_person B_person B_genre,movie.initial_release_date
+list of movies directed by director three,B_person B_person B_person B_person B_person B_person B_person,movie.directed_by movie.initial_release_date
+show me the film that grossed seven point two million at the box office,B_person B_person B_person B_person B_person B_person B_producer B_person B_movie B_producer B_person B_person B_person B_producer,
+show me movies that made over seven million dollars,B_person B_person B_person B_person B_person B_person B_person B_director B_person,
+show me movies that didn't gross much,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+i want to see movies from early two thousands,B_person B_person B_person B_person B_person B_person B_person B_director B_director,movie.subjects
+show last years films by 7 arts,B_person B_person B_person B_person B_person B_subject B_country,
+show all movies that came out nine fourteen twenty twelve,B_person B_person B_person B_person B_person B_person I_genre B_person B_language B_person,
+were there any movies released nine fourteen twenty twelve,B_person B_person B_person B_person B_person I_producer B_person B_language B_person,
+show me movies from the nineteen seventies,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+can you list all movies from twenty twelve with a rating of three stars and up,B_person B_person B_person B_person B_person B_person B_language B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.rating
+academy award lionsgate movies,B_person B_person B_person B_person,movie.rating
+show oscar winning movies by warner brothers,B_person B_person B_person B_person B_person B_person B_country,movie.directed_by
+what movie performance did meryl streep win her best supporting oscar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.directed_by
+have any us released movies been filmed on location in the czech republic,B_person B_person B_language B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.language
+what us release movies have been filmed in the czech republic,B_person B_language B_person B_person B_person B_person B_person B_person B_person B_person B_mpaa_rating,movie.language
+list movies set in ireland,B_person B_person B_person B_person B_person,
+show me the movies released in england,B_person B_person B_person B_person B_person B_person B_person,
+what movies are coming out this week in great britain,B_person B_person B_person B_person B_person B_person B_person B_person B_mpaa_rating B_person,movie.starring.actor
+show me the movies released in nepal,B_person B_person B_person B_person B_person B_person B_person,
+what are the top five french movies of all time,B_person B_person B_person B_person B_person B_language B_person B_person B_person B_director,movie.language movie.subjects
+what top films have come out of russia,B_person B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+show me the top movies from spain,B_person B_person B_person B_person B_person B_person B_person,movie.starring.actor
+what is the highest rated zombie movie,B_person B_person B_person B_person B_person B_director B_person,movie.rating movie.subjects
+what are highly rated zombie movies i can watch,B_person B_person B_mpaa_rating B_person B_director B_person B_person B_person B_person,movie.subjects
+look for popular movies,B_person B_person B_person B_person,movie.produced_by
+search for foreign language films,B_person B_person B_person I-movie B_person,movie.language
+what is will ferrell famous for,B_person B_person B_person B_person B_person B_person,movie.starring.actor
+is this a musical,B_person B_person B_person I_mpaa_rating,
+hope that the movie is in english,B_person B_person B_person B_person B_person B_person B_language,movie.language
+is this movie in english,B_person B_person B_person B_person B_language,movie.language
+do they speak german in the movie,B_person B_person B_person B_language B_person B_person B_person,movie.language
+is this movie filmed in india,B_person B_person B_person B_person B_person I_movie,
+show all dawn of the dead movies,B_person B_person B_director B_person B_person B_director B_person,movie.subjects
+all of kung fu panda movies,B_person B_person B_mpaa_rating B_person B_person B_person,
+list movies that have time travel in their title,B_person B_person B_person B_person B_director I_director B_person B_person B_person,movie.subjects
+i want to see nine twenty eight release date films from twenty twelve,B_person B_person B_person B_person I_subject B_language I_producer B_person B_person B_person B_person B_language I_mpaa_rating,
+find information about french movies,B_person B_person B_person I_movie B_person,movie.country movie.language
+i need to know more about the life and movies of indian actor dilip kumar,B_person B_person B_person B_person B_person B_person B_person B_language B_person B_person B_person I_movie B_person B_person B_person,movie.country movie.language
+what does the miramax logo look like,B_person B_person B_movie B_person B_producer B_person B_person,movie.starring.actor
+show me pictures of martin scorsese,B_person B_person B_person B_person B_mpaa_rating B_person,movie.rating
+photos of steven spielberg,B_producer B_person B_person B_person,
+i want to see images of will ferrell,B_person B_person B_person B_person I_person B_person B_person B_person,none
+show me pictures of woody allen,B_person B_person B_person B_person I_producer B_person,movie.directed_by movie.starring.actor
+what are popular movie producers,B_person B_person B_person B_person B_person,movie.starring.actor
+can you give me the producer,B_person B_person B_person B_person B_person B_person,movie.produced_by
+i would like to know the rating of the movie avatar,B_person B_person B_person B_person B_person B_person B_person B_person B_person B_person B_movie,movie.estimated_budget movie.rating
+what rating is the movie barfi,B_person B_person B_person B_person B_person B_person,movie.rating
+what is finding nemo rated,B_person B_person B_movie B_person B_person,movie.rating
+i need to know the rating of grease,B_person B_person B_person B_person B_person B_person B_person B_movie,movie.rating
+can you find out what rating the movie grease is,B_person B_person B_person B_person B_person B_person B_person B_person B_movie B_person,movie.rating
+what is kids by larry clark rated,B_person B_person B_person B_person B_person B_person B_person,movie.rating
+what rating did marley and me receive,B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date movie.rating
+what is the rating for mr and mrs smith,B_person B_person B_person B_person B_person B_producer B_person B_person B_person,movie.rating
+what rating did resident evil receive,B_person B_person B_person B_person B_producer B_person,movie.initial_release_date movie.rating
+rating for snow white and the huntsman,B_person B_person B_movie B_person B_producer B_person B_producer,movie.estimated_budget movie.initial_release_date movie.rating
+what rating is step up,B_person B_person B_person B_movie B_person,movie.rating
+look up the rating of the movie step up,B_person B_person B_person B_person B_person B_person B_person B_movie B_person,
+what rating did the campaign movie get,B_person B_person B_person B_person B_producer B_person B_person,movie.rating
+show me the rating for the movie the expendables,B_person B_person B_person B_person B_person B_person B_person B_person B_person,movie.initial_release_date movie.rating
+what is the rating for toy story,B_person B_person B_person B_person B_person B_movie B_producer,movie.rating
+what is the rating for the movie toy story,B_person B_person B_person B_person B_person B_person B_person B_movie B_producer,movie.rating
+rating for twilight breaking dawn,B_person B_person B_movie B_person B_producer,movie.estimated_budget movie.rating
+what was gross revenue for batman begins,B_person B_person B_person B_person B_person B_movie B_person,
+how much has black swan brought in,B_person B_person B_person B_movie B_producer B_person B_person,movie.starring.actor
+find the revenue for downton abbey,B_person B_person B_person B_person B_person B_producer,none
+find the revenue of edward scissor hands,B_person B_person B_person B_person B_person B_person B_person,
+what is the most a movie made,B_person B_person B_person B_person B_person B_person B_person,movie.country
+reviews for dirty dancing,B_person B_person B_movie B_producer,movie.estimated_budget movie.starring.actor
+find reviews for dirty dancing,B_person B_person B_person B_movie B_producer,movie.estimated_budget
+what are reviews for finding nemo,B_person B_person B_person B_person B_movie B_person,
+what are the ratings and review on finding nemo,B_person B_person B_person B_person B_person B_person B_person B_movie B_person,movie.initial_release_date movie.starring.actor
+reviews for finding nemo,B_person B_person B_movie B_person,
+reviews for finding nemo,B_person B_person B_movie B_person,
+reviews for finding nemo,B_person B_person B_movie B_person,
+reviews for movie,B_person B_person B_person,movie.directed_by movie.language
+reviews for in july,B_person B_person B_person B_person,movie.initial_release_date movie.starring.actor
+what are the reviewers saying about star wars episode four,B_person B_person B_person B_producer B_producer B_person B_movie B_producer B_producer B_producer,none
+how long is life is beautiful,B_person B_producer B_producer B_movie B_producer B_producer,none
+synopsis for the movie house at the end of the street,B_person B_person B_producer B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+synopsis for star wars four,B_person B_person B_movie B_producer B_producer,none
+summary of star wars four,B_person B_person B_movie B_producer B_producer,none
+finding nemo movie shortcut,B_movie B_person B_person B_person,movie.starring.actor none
+show me the trailer for house at the end of the street,B_person B_person B_producer B_person B_person B_movie B_person B_producer B_producer B_producer B_producer B_producer,none
+life is beatiful shortcut,B_movie B_person B_person B_person,none
+trailer for star wars a new hope,B_person B_person B_movie B_producer B_producer B_producer B_producer,movie.starring.actor none
+show resident evil movies with trailers,B_person B_language B_mpaa_rating B_person B_person I_director,movie.rating
+can i see previews for upcoming warner brothers movies,B_person B_person B_person B_mpaa_rating B_person B_person B_person B_country B_person,movie.starring.actor
+how many woody allen movies are set in new york city,B_person B_person I_producer B_genre B_person B_person B_person B_person B_person B_person B_language,movie.directed_by movie.starring.actor
+how many scorsese films were filmed in france,I_genre B_person I_genre B_person I_genre B_person B_person I_genre,movie.directed_by movie.starring.actor

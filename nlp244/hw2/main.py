@@ -69,7 +69,7 @@ def train_model(data_path, save_model_path):
         evaluation_strategy='epoch',
         disable_tqdm=False,
         learning_rate=1e-4,
-        num_train_epochs=1,
+        num_train_epochs=50,
         log_level='info',
         logging_strategy='epoch',
         per_device_train_batch_size=64,
@@ -132,7 +132,7 @@ def train_model(data_path, save_model_path):
         evaluation_strategy='epoch',
         disable_tqdm=False,
         learning_rate=1e-4,
-        num_train_epochs=1,
+        num_train_epochs=10,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
         log_level='info'
